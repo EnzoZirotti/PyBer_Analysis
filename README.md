@@ -14,7 +14,7 @@ In a Rural city as you see here, it's represented with lower drivers and rides b
 In an Urban city the amount of rides and drivers are much higher than in the Rural city and the fares are also much lower in price. This means we can assume that with more riders each rider in the city will have a lower fare per ride.
 The Suberban city is right in the middle of both types of cities but still has a lot more drivers and riders than Rural cities. 
 
-![Screenshot]()
+![Screenshot](Resources/line_graph.PNG)
 
 ## Summary:
 
